@@ -11,9 +11,8 @@ I'm currently a [BSc Software Systems student at Simon Fraser University](https:
 
 ### Work History
 
-More information available at my [personal website](https://mzegar.github.io/)
-
 Software Developer Intern - [HomeX](https://homex.com/) (May 2020 - Sept 2020)
 
 Software Engineer Co-op - [Kabam](https://kabam.com/) (May 2019 - Dec 2019)
 
+More information available at my [personal website](https://mzegar.github.io/)
