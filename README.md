@@ -7,7 +7,7 @@
 
 ### About Me
 
-I'm currently a [BSc Software Systems student at Simon Fraser University](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html). Currently trying to find my place in the computer science industry through internships and personal projects.
+I'm currently a [BSc Software Systems student at Simon Fraser University](https://www.sfu.ca/computing/prospective-students/undergraduate-students/programs/degree-programs/softwaresystems.html). Trying to find my place in the computer science industry through internships and personal projects.
 
 ### Work History
 
