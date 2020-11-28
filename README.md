@@ -1,4 +1,4 @@
-<h3 align="center">👋 Hey! I'm Matthew Zegar</h3>
+<h3 align="center">Hey! I'm Matthew Zegar</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/matthewzegar/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
