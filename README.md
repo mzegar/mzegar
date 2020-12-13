@@ -11,6 +11,8 @@ I'm currently a [BSc Software Systems student at Simon Fraser University](https:
 
 ### Work History
 
+Software QA Engineer Intern - [NVIDIA](https://www.nvidia.com/en-us/) *(Jan 2021 - Present)*
+
 Mobile Developer Intern - [HomeX](https://homex.com/) *(May 2020 - Dec 2020)*
 
 Software Engineer Co-op - [Kabam](https://kabam.com/) *(May 2019 - Dec 2019)*
