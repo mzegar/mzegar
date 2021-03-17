@@ -11,7 +11,7 @@ I'm currently a [BSc Software Systems student at Simon Fraser University](https:
 
 ### Work History
 
-Internal Tools Developer Intern - [NVIDIA](https://www.nvidia.com/en-us/) *(Jan 2021 - April 2021)*
+Software Intern - [NVIDIA](https://www.nvidia.com/en-us/) *(Jan 2021 - Present)*
 
 Mobile Developer Intern - [HomeX](https://homex.com/) *(May 2020 - Dec 2020)*
 
